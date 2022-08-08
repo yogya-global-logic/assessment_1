@@ -1,0 +1,13 @@
+Create a Ticket Raising application 
+Mock Data:
+Ticket ID
+Ticket Timestamp
+Priority
+Ticket Description
+Ticket Status (assume – open initially)
+After closing ticket add a property for summary.
+Key Features:
+Display the open tickets with high priority first and show the low priority tickets below.
+Each ticket component should be styled and the bg-color of the container should be different for different priority Eg. Priority 5 – Orange, Priority 4-Yellow and so on.
+Display open tickets and closed tickets in same component.
+Close the tickets by adding a summary.
